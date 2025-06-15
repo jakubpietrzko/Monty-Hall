@@ -4,4 +4,4 @@ A Python simulation of the classic **Monty Hall problem**, demonstrating how oft
 
 This code allows you to:
 - analyze single Monty Hall games (probability of winning),
-- simulate **multi-round matches** (e.g. 15 games per match)
+- simulate **multi-round matches** (e.g. 15 games per match), and estimate the **probability of winning the majority** of games in each match when always switching.
